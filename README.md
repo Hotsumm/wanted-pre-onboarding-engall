@@ -1,5 +1,5 @@
 # 원티드 프리온보딩 5차 과제 - schedule
-## 🚀🚀 [배포](https://wanted-4group-engall.herokuapp.com/form)
+## 🚀🚀 [배포](https://wanted-4group-engall.herokuapp.com)
 ## 1. 소개
 
 - 원티드 프리온보딩 5기 4-2 기업 과제
