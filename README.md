@@ -1,5 +1,5 @@
 # 원티드 프리온보딩 5차 과제 - schedule
-## 🚀🚀 [배포](https://wanted-4group-engall.herokuapp.com)
+## 🚀🚀 [배포](https://wanted-preonboarding-engall-et4tyq424-jiehoonpark.vercel.app)
 ## 1. 소개
 
 - 원티드 프리온보딩 5기 4-2 기업 과제
